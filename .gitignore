@@ -1,15 +1,38 @@
-lib-cov
-*.seed
+## OS
+.DS_Store
+Thumbs.db
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## Sublime Text 2
+*.sublime-workspace
+
+## LOGS
 *.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
+log
 
-pids
-logs
-results
+## EMACS
+*~
+#*
+.#*
 
-npm-debug.log
-node_modules
+## VIM
+*.swp
+
+## CACHES
+.sass-cache
+*.cache
+
+## TMP
+tmp
+build-tmp
+
+/.rbenv-version
+node_modules/
+dist/*
+vendor/cache/*
+tmp/*
+.tmp/*
+components/
