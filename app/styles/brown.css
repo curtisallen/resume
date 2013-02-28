@@ -45,7 +45,8 @@ blockquote, q {
 .clear {
 	clear:both;
 }
-
+/* Large desktop */
+  @media (min-width: 1200px) {}
 
 /* LAYOUT */
 /* ----------------------------------------- */
