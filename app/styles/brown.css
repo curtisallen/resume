@@ -154,22 +154,22 @@ a:hover {
 
 /* ENTRIES */
 /* ----------------------------------------- */
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
     .entry {
         margin-left: 15px;
     }
 }
 @media (min-width: 768px) {
     .entry {
-        margin-left: 35px;
+        margin-left: 15px;
     }
-}
+}*/
 .entry {
 	width:90%;
 	display: block;
 	padding-top:55px;
 	clear: both;
-
+	margin-left: 15px;
 }
 
 h1  {
