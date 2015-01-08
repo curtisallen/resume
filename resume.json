@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Curtis Allen",
+    "label": "DevOps Software Engineer",
+    "picture": "http://www.gravatar.com/avatar/eb6ba32cb964354c25937038fbccdcb9.png",
+    "email": "curtis.n.allen+jobs@gmail.com",
+    "phone": "(720) 319-7247",
+    "website": "http://resume.curtisnallen.com",
+    "summary": "Highly skilled DevOps Engineer with design and software development experience. Proficient in a wide variety of programming languages, frameworks, databases, open sourced products, and a major contributor to webservices hosted in a Cloud computing environment.",
+    "location": {
+      "address": "",
+      "postalCode": "CO 80206",
+      "city": "Denver",
+      "countryCode": "US",
+      "region": "Colorado"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/pub/curtis-allen/66/255/684"
+      },
+      {
+        "network": "Github",
+        "username": "",
+        "url": "https://github.com/curtisallen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pearson Education",
+      "position": "Senior Software Engineer",
+      "website": "https://www.pearson.com/",
+      "startDate": "2013-05-01",
+      "endDate": "Present",
+      "summary": "Member on an advanced applied research and innovation team that provides infrastructure services at scale for learning analytics. Using graph science, Natural Language Processing (NLP), and machine learning techniques to develop services that improve next-gen eLearning products and emergent digital pedagogies.",
+      "highlights": [
+        "Designed and developed a sophisticated metrics gathering and display pipeline using graphite, statsd, Redis, and AngularJS",
+        "Developed algorithms that leverage educational data, using graph theory and statistical modeling techniques",
+        "Deployed large Cassandra database clusters in an Amazon Web Services environment. Was responsible for maintenance, performance, and troubleshooting",
+        "Developed Storm topologies that processes a large stream of data",
+        "Instrumental in making successful technology choices that helped to enable the best customer experience. ",
+        "Automated infrastructure deployments using Python and Fabric"
+      ]
+    },
+    {
+      "company": "Mercury Intelligence Systems",
+      "position": "Senior Software Engineer",
+      "website": "http://www.mrcy.com/intelligence_systems/",
+      "startDate": "May 2010",
+      "endDate": "May 2013",
+      "summary": "",
+      "highlights": [
+        "Designed and implemented Enterprise Java Beans and webservices that support a geographically distributed query infrastructure capable of serving large quantities of results between data clusters ",
+        "Developed HTML 5 web applications using modern javascript frameworks: AngularJS, Backbone.js, and JQuery",
+        "Implemented automated test/deployment infrastructure",
+        "Automated repetitive development tasks using a variety of scripting languages"
+      ]
+    },
+    {
+      "company": "ITT",
+      "position": "Software Engineer",
+      "website": "http://www.exelisinc.com/pages/default.aspx",
+      "startDate": "June 2008",
+      "endDate": "May 2010",
+      "summary": "",
+      "highlights": [
+        "Implemented interfaces connecting legacy components to the existing enterprise infrastructure",
+        "Optimized existing software products to considerably enhance performance",
+        "Developed rich desktop Java Swing applications",
+        "Successfully prototyped a data-fusion analysis tool, and demonstrated this tool at the 2008 GEOINT conference"
+      ]
+    },
+    {
+      "company": "Physical Science Laboratory",
+      "position": "Electrical Engineer",
+      "website": "http://www.psl.nmsu.edu/",
+      "startDate": "January 2004",
+      "endDate": "May 2008",
+      "summary": "",
+      "highlights": [
+        "Developed and integrated complex signal processors",
+        "Engineered software implementations of IEEE standards",
+        "Designed an interactive user interface in support of user requirements",
+        "Implemented algorithms to support digital communications requirements",
+        "Used MATLAB to produce highly efficient communications processing tools",
+        "Experienced in software and communications algorithm optimization",
+        "Detected, demodulated and performed intricate signal parametric identification",
+        "Composed technical reports to assist in recognizing complex signal structures"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of New Mexico",
+      "area": "Electrical Engineering, Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "August 2002",
+      "endDate": "May 2008",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Javascript",
+        "Groovy",
+        "Python",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Hadoop",
+        "AngularJS",
+        "Storm",
+        "Kafka",
+        "tinkerpop"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
