@@ -6,7 +6,7 @@
     "email": "curtis.n.allen+jobs@gmail.com",
     "phone": "(720) 319-7247",
     "website": "http://resume.curtisnallen.com",
-    "summary": "Highly skilled DevOps Engineer with design and software development experience. Proficient in a wide variety of programming languages, frameworks, databases, open sourced products, and a major contributor to webservices hosted in a Cloud computing environment.",
+    "summary": "Highly skilled DevOps Engineer with design and software development experience. Proficient in a wide variety of programming languages, frameworks, databases, open sourced products, and a major contributor to services hosted in a Amazon Web Services environment.",
     "location": {
       "address": "",
       "postalCode": "CO 80206",
@@ -32,8 +32,8 @@
       "company": "Pearson Education",
       "position": "Senior Software Engineer",
       "website": "https://www.pearson.com/",
-      "startDate": "2013-05-01",
-      "endDate": "Present",
+      "startDate": "May 2013",
+      "endDate": "May 2015",
       "summary": "Member on an advanced applied research and innovation team that provides infrastructure services at scale for learning analytics. Using graph science, Natural Language Processing (NLP), and machine learning techniques to develop services that improve next-gen eLearning products and emergent digital pedagogies.",
       "highlights": [
         "Designed and developed a sophisticated metrics gathering and display pipeline using graphite, statsd, Redis, and AngularJS",
