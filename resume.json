@@ -6,7 +6,7 @@
     "email": "curtis.n.allen+jobs@gmail.com",
     "phone": "(720) 319-7247",
     "website": "http://resume.curtisnallen.com",
-    "summary": "Highly skilled DevOps Engineer with design and software development experience. Proficient in a wide variety of programming languages, frameworks, databases, open sourced products, and a major contributor to services hosted in a Amazon Web Services environment.",
+    "summary": "Highly skilled DevOps Engineer with design and software development experience. Proficient in a wide variety of programming languages, frameworks, databases, open sourced products, and a major contributor to services hosted in a Amazon Web Services environment. Passionate about crafting highly scalable reliable software solutions from design to implementation and deployment.",
     "location": {
       "address": "",
       "postalCode": "CO 80206",
@@ -24,6 +24,11 @@
         "network": "Github",
         "username": "",
         "url": "https://github.com/curtisallen"
+      },
+      {
+        "network": "stackoverflow",
+        "username": "",
+        "url": "http://stackoverflow.com/users/3745378/curtis-allen"
       }
     ]
   },
@@ -125,7 +130,10 @@
         "AngularJS",
         "Storm",
         "Kafka",
-        "tinkerpop"
+        "Tinkerpop",
+        "Gremlin",
+        "Titan",
+        "Cassandra"
       ]
     }
   ],
