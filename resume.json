@@ -37,15 +37,15 @@
       "company": "Pearson Education",
       "position": "Senior Software Engineer",
       "website": "https://www.pearson.com/",
-      "startDate": "May 2013",
-      "endDate": "May 2015",
-      "summary": "Member on an advanced applied research and innovation team that provides infrastructure services at scale for learning analytics. Using graph science, Natural Language Processing (NLP), and machine learning techniques to develop services that improve next-gen eLearning products and emergent digital pedagogies.",
+      "startDate": "2013-05-01",
+      "endDate": "2015-05-01",
+      "summary": "Member on an advanced applied research and innovation team that provides infrastructure services at scale for learning analytics. Using graph science, Natural Language Processing (NLP), and machine learning techniques to develop services that improve next generation eLearning products and emergent digital pedagogies.",
       "highlights": [
         "Designed and developed a sophisticated metrics gathering and display pipeline using graphite, statsd, Redis, and AngularJS",
-        "Developed algorithms that leverage educational data, using graph theory and statistical modeling techniques",
-        "Deployed large Cassandra database clusters in an Amazon Web Services environment. Was responsible for maintenance, performance, and troubleshooting",
-        "Developed Storm topologies that processes a large stream of data",
-        "Instrumental in making successful technology choices that helped to enable the best customer experience. ",
+        "Developed algorithms that leverage educational data using graph theory and statistical modeling techniques",
+        "Deployed large Cassandra database clusters in an Amazon Web Services environment and was responsible for maintenance, performance, and troubleshooting",
+        "Developed Storm topologies that process a large stream of data",
+        "Instrumental in making successful technology choices that helped enable the best customer experience. ",
         "Automated infrastructure deployments using Python and Fabric"
       ]
     },
@@ -53,8 +53,8 @@
       "company": "Mercury Intelligence Systems",
       "position": "Senior Software Engineer",
       "website": "http://www.mrcy.com/intelligence_systems/",
-      "startDate": "May 2010",
-      "endDate": "May 2013",
+      "startDate": "2010-05-01",
+      "endDate": "2013-05-01",
       "summary": "",
       "highlights": [
         "Designed and implemented Enterprise Java Beans and webservices that support a geographically distributed query infrastructure capable of serving large quantities of results between data clusters ",
@@ -67,8 +67,8 @@
       "company": "ITT",
       "position": "Software Engineer",
       "website": "http://www.exelisinc.com/pages/default.aspx",
-      "startDate": "June 2008",
-      "endDate": "May 2010",
+      "startDate": "2008-06-01",
+      "endDate": "2010-05-01",
       "summary": "",
       "highlights": [
         "Implemented interfaces connecting legacy components to the existing enterprise infrastructure",
@@ -81,8 +81,8 @@
       "company": "Physical Science Laboratory",
       "position": "Electrical Engineer",
       "website": "http://www.psl.nmsu.edu/",
-      "startDate": "January 2004",
-      "endDate": "May 2008",
+      "startDate": "2004-01-01",
+      "endDate": "2008-05-01",
       "summary": "",
       "highlights": [
         "Developed and integrated complex signal processors",
@@ -102,8 +102,8 @@
       "institution": "University of New Mexico",
       "area": "Electrical Engineering, Mathematics",
       "studyType": "Bachelor",
-      "startDate": "August 2002",
-      "endDate": "May 2008",
+      "startDate": "2002-08-01",
+      "endDate": "2008-05-01",
       "gpa": "",
       "courses": []
     }
