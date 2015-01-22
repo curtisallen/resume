@@ -26,7 +26,7 @@
         "url": "https://github.com/curtisallen"
       },
       {
-        "network": "stackoverflow",
+        "network": "StackOverflow",
         "username": "",
         "url": "http://stackoverflow.com/users/3745378/curtis-allen"
       }
@@ -36,7 +36,7 @@
     {
       "company": "Pearson Education",
       "position": "Senior Software Engineer",
-      "website": "https://www.pearson.com/",
+      "website": "http://pearsonhighered.com/",
       "startDate": "2013-05-01",
       "endDate": "2015-05-01",
       "summary": "Member on an advanced applied research and innovation team that provides infrastructure services at scale for learning analytics. Using graph science, Natural Language Processing (NLP), and machine learning techniques to develop services that improve next generation eLearning products and emergent digital pedagogies.",
@@ -66,7 +66,7 @@
     {
       "company": "ITT",
       "position": "Software Engineer",
-      "website": "http://www.exelisinc.com/pages/default.aspx",
+      "website": "http://www.exelisinc.com/",
       "startDate": "2008-06-01",
       "endDate": "2010-05-01",
       "summary": "",
@@ -99,9 +99,9 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of New Mexico",
+      "institution": "New Mexico State University",
       "area": "Electrical Engineering, Mathematics",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science",
       "startDate": "2002-08-01",
       "endDate": "2008-05-01",
       "gpa": "",
