@@ -34,6 +34,20 @@
   },
   "work": [
     {
+      "company": "Robots and Pencils",
+      "position": "Senior Robot",
+      "website": "https://robotsandpencils.com/",
+      "startDate": "2015-05-01",
+      "summary": "Server Lead / Individual Contributor on numerous successful projects spanning several of domains.",
+      "highlights": [
+        "Designed and Implemented DevOps continuous intergration / deployment pipelines.",
+        "Developed high-performance cloud-native applications using Golang, Python, and Java.",
+        "Developed cloud provisioning automation strategies using Terraform and Ansible.",
+        "Designed and implemented custom Slack integrations automating process workflows.",
+        "Architected microservice cloud-native high-performance systems on time and under budget."
+      ]
+    },
+    {
       "company": "Pearson Education",
       "position": "Senior Software Engineer",
       "website": "http://pearsonhighered.com/",
@@ -115,6 +129,7 @@
       "name": "Software Engineering",
       "level": "",
       "keywords": [
+        "Golang",
         "Java",
         "Javascript",
         "Groovy",
@@ -133,7 +148,9 @@
         "Tinkerpop",
         "Gremlin",
         "Titan",
-        "Cassandra"
+        "Cassandra",
+        "Terraform",
+        "Ansible"
       ]
     }
   ],
